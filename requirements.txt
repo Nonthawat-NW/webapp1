@@ -1,0 +1,4 @@
+streamlit
+io
+PLT
+google-generativeai
