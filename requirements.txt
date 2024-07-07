@@ -1,4 +1,5 @@
 streamlit
 io
 PLT
+pillow
 google-generativeai
